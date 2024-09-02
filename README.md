@@ -12,7 +12,4 @@ This project is a web application that utilizes Bootstrap for responsive design 
 - **Dynamic Content:** PHP is used to handle server-side logic, making the content dynamic and interactive.
 - **User-Friendly Interface:** Designed with an emphasis on ease of use and aesthetic appeal.
 
-## Installation
-
-To get started with this project, follow these steps:
 
